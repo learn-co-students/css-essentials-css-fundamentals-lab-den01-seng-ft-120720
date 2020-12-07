@@ -3,3 +3,46 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align:center;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+nav a {
+  padding-right:10px;
+  padding-left:10px;
+  margin-right:auto;
+  margin-left:auto;
+  background-color:gray;
+}
+
+figcaption {
+  font-size:10px;
+  text-align:center;
+  padding-top:10px; 
+}
+
+#featured-property p {
+  width:800px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#details {
+  display:block;
+}
+
+#details div {
+  float:left;
+  width:25%;
+  text-align:center;
+  background:gray;
+}
